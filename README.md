@@ -38,7 +38,6 @@ This workspace manages the suite of plugins:
 - [@nativescript/twitter](packages/twitter/README.md)
 - [@nativescript/zip](packages/zip/README.md)
 
-
 ## Prerequisites
 
 - Node 18+ is recommended
