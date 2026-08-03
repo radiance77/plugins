@@ -1,3 +1,7 @@
+# How to use?
+
+This workspace manages the suite of plugins:
+
 - [@nativescript/animated-circle](packages/animated-circle/README.md)
 - [@nativescript/appavailability](packages/appavailability/README.md)
 - [@nativescript/apple-sign-in](packages/apple-sign-in/README.md)
@@ -34,9 +38,6 @@
 - [@nativescript/twitter](packages/twitter/README.md)
 - [@nativescript/zip](packages/zip/README.md)
 
-# How to use?
-
-This workspace manages the suite of plugins listed above. 
 
 ## Prerequisites
 
@@ -104,3 +105,4 @@ npm run publish-packages
 - You will then be given a brief sanity check 🧠😊
 
 <h3 align="center">Made with ❤️</h3>
+
